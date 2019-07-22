@@ -35,8 +35,8 @@ All the simulations have been performed using the following settings:
 ## 9-Mixed-A
 ![9-Mixed-A](recordings/9-Mixed-A.gif)
 
-## 9-Mixed-B
-![9-Mixed-B](recordings/9-Mixed-B.gif)
+## 10-Mixed-B
+![10-Mixed-B](recordings/10-Mixed-B.gif)
 
-## 9-Mixed-C
-![9-Mixed-C](recordings/9-Mixed-C.gif)
+## 11-Mixed-C
+![11-Mixed-C](recordings/11-Mixed-C.gif)

@@ -9,7 +9,7 @@ All the simulations have been performed using the following settings:
 > Suggestion: You can download the animations below in order to watch them at a higher resolution.
 
 ## 1-Back-to-front
-![1-Back-to-front](recordings/1-Back-to-front.gif)
+![1-Back-to-front](recordings/1-back-to-front.gif)
 
 ## 2-Adapted-WilMA
 ![2-Adapted-WilMA](recordings/2-Adapted-WilMA.gif)

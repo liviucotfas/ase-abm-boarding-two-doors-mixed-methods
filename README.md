@@ -32,11 +32,29 @@ All the simulations have been performed using the following settings:
 ## 8-Mixed-WilMA-MO-B
 ![8-Mixed-WilMA-MO-B](recordings/8-Mixed-WilMA-MO-B.gif)
 
-## 9-Mixed-A
-![9-Mixed-A](recordings/9-Mixed-A.gif)
+## 9-Mixed-WilMA-RP-A
+![9-Mixed-WilMA-RP-A](recordings/9-Mixed-WilMA-RP-A.gif)
 
-## 10-Mixed-B
-![10-Mixed-B](recordings/10-Mixed-B.gif)
+## 10-Mixed-WilMA-RP-B
+![10-Mixed-WilMA-RP-B](recordings/10-Mixed-WilMA-RP-B.gif)
 
-## 11-Mixed-C
-![11-Mixed-C](recordings/11-Mixed-C.gif)
+## 11-Mixed-WilMA-RP-C
+![11-Mixed-WilMA-RP-C](recordings/11-Mixed-WilMA-RP-C.gif)
+
+## 12-Mixed-WilMA-RP-D
+![12-Mixed-WilMA-RP-D](recordings/12-Mixed-WilMA-RP-D.gif)
+
+## 13-Mixed-WilMA-RP-E
+![13-Mixed-WilMA-RP-E](recordings/13-Mixed-WilMA-RP-E.gif)
+
+## 14-Mixed-A
+![14-Mixed-A](recordings/14-Mixed-A.gif)
+
+## 15-Mixed-B
+![15-Mixed-B](recordings/15-Mixed-B.gif)
+
+## 16-Mixed-C
+![16-Mixed-C](recordings/16-Mixed-C.gif)
+
+## 17-Mixed-D
+![17-Mixed-D](recordings/17-Mixed-D.gif)
